@@ -131,5 +131,5 @@ source ~/.bashrc
 
 ## Support
 
-For additional support, please contact or email mlopezme@ucsd.edu.
+For additional support, please contact or email xil130@ucsd.edu.
 
